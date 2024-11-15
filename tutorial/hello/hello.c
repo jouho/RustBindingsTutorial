@@ -1,3 +1,3 @@
 char* hello() {
-    return "Generatings first rust binding!";
+    return "Generate the first rust binding!";
 }
